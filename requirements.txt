@@ -9,7 +9,6 @@ opencv-contrib-python-headless==4.5.4.58
 Pillow==8.4.0
 pyparsing==3.0.4
 python-dateutil==2.8.2
-PyWavelets==1.1.1
 six==1.16.0
 tensorflow-cpu==2.7.0
 Werkzeug==2.0.2
